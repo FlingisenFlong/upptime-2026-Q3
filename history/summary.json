@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/panel.flingisenflong.com.ico",
     "slug": "liams-panel",
     "status": "down",
-    "uptime": "94.76%",
+    "uptime": "91.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.10%",
-    "uptimeMonth": "94.76%",
-    "uptimeYear": "94.76%",
+    "uptimeWeek": "63.78%",
+    "uptimeMonth": "91.63%",
+    "uptimeYear": "91.63%",
     "time": 539,
     "timeDay": 0,
-    "timeWeek": 541,
-    "timeMonth": 539,
+    "timeWeek": 529,
+    "timeMonth": 546,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2026-10-01": 165,
+      "2026-10-02": 168,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 603
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 983,
-    "timeWeek": 961,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "time": 945,
+    "timeDay": 1053,
+    "timeWeek": 968,
+    "timeMonth": 952,
+    "timeYear": 945,
     "dailyMinutesDown": {}
   }
 ]
