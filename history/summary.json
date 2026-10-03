@@ -1,27 +1,21 @@
 [
   {
-    "name": "Liams panel",
+    "name": "Liams pterodactyl panel",
     "url": "https://panel.liamfri.se",
     "icon": "https://icons.duckduckgo.com/ip3/panel.liamfri.se.ico",
-    "slug": "liams-panel",
+    "slug": "liams-pterodactyl-panel",
     "status": "up",
-    "uptime": "86.56%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "38.45%",
-    "uptimeMonth": "85.84%",
-    "uptimeYear": "86.56%",
-    "time": 536,
-    "timeDay": 437,
-    "timeWeek": 491,
-    "timeMonth": 546,
-    "timeYear": 536,
-    "dailyMinutesDown": {
-      "2026-10-03": 1282,
-      "2026-10-02": 1440,
-      "2026-10-01": 1440,
-      "2026-09-30": 1440,
-      "2026-09-29": 603
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 377,
+    "timeDay": 377,
+    "timeWeek": 377,
+    "timeMonth": 377,
+    "timeYear": 377,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Liams dåliga jellyfin server",
@@ -34,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 704,
-    "timeWeek": 895,
-    "timeMonth": 943,
-    "timeYear": 931,
+    "time": 923,
+    "timeDay": 697,
+    "timeWeek": 871,
+    "timeMonth": 935,
+    "timeYear": 923,
     "dailyMinutesDown": {}
   }
 ]
