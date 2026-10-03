@@ -3,7 +3,7 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Liams panel
+  - name: Liams pterodactyl panel
     url: https://panel.liamfri.se
   - name: Liams dåliga jellyfin server
     url: https://sigma.flingisenflong.com
