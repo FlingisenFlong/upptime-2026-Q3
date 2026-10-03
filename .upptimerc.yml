@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Liams panel
-    url: https://panel.flingisenflong.com
+    url: https://panel.liamfri.se
   - name: Liams dåliga jellyfin server
     url: https://sigma.flingisenflong.com
 
